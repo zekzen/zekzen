@@ -79,7 +79,7 @@
 - 👨‍💻&emsp; All of my projects are in [here](https://github.com/zekzen)
 - ⚡&emsp; I have a rapid development speed **Quick**
 - 📧&emsp; Reach anytime: [here](xxx@gmail.com)
-- 💬&emsp; Leave issues [here](https://github.com/zekzen/issues)
+- 💬&emsp; Leave issues [here](https://github.com/zekzen/zekzen/issues)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
